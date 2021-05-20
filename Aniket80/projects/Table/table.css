@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 10px;
+    padding: 0;
     box-sizing: border-box;
 }
 body {
@@ -23,7 +23,6 @@ hr {
     justify-content: center;
     align-content: center;
     margin: 50px;
-    border: 2px solid black;
 }
 .table1 table {
     width: 50%;
@@ -81,12 +80,12 @@ hr {
     padding: 10px;
 }
 /* table5 */
-#table5 table{
+.table5 table{
     border: 10px solid black;
     width: 30%;
     padding: 10px;
 }
-#table5 table tr td, .table5 table tr th {
+.table5 table tr td, .table5 table tr th {
     border: 2px solid black;
     padding: 10px;
     text-align: center;
