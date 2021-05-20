@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.table table {
+    border: 2px solid black;
+    width: 40%;
+    height: 200px;
+    text-align: left;
+}
+.table table tr td {
+    border: 2px solid black;
+    padding-left: 20px;
+}
