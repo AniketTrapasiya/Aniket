@@ -23,6 +23,7 @@ hr {
     justify-content: center;
     align-content: center;
     margin: 50px;
+    border: 2px solid black;
 }
 .table1 table {
     width: 50%;
